@@ -1,3 +1,8 @@
 gvfjq
 nv nvg ng khbva
+<<<<<<< HEAD
 
+=======
+the maximun
+dwfe
+>>>>>>> 820b811 (kok)
